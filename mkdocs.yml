@@ -1,6 +1,6 @@
 site_name: Bar Citizen International Wiki
 site_url: https://www.barcitizen.org/
-repo_url: https://github.com/ZoldorfTheWizard/BCI-Wiki-POC
+repo_url: https://github.com/BarCitizen/wiki
 theme:
   name: material
   color_mode: dark
