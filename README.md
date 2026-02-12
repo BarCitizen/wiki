@@ -1,4 +1,4 @@
-# BCI-Wiki-POC
+# Bar Citizen Wiki
 
 ## Installing Mkdocs
 
