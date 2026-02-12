@@ -48,7 +48,7 @@ It varies, but a good rule of thumb is to expect about 50-75% of those who expre
 
 The best time for your event depends on your local community. Evenings and weekends generally work best, but consider what works for your attendees.
 
-###How long should my event be?
+### How long should my event be?
 
 This really depends upon the attendees. However, most events last between 2-4 hours. This can vary depending on the venue and the activities planned.
 
