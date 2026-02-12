@@ -1,0 +1,30 @@
+:root>* {
+    --md-primary-fg-color: #0a0e1a;
+    --md-primary-fg-color--light: #ffffff;
+    --md-primary-fg-color--dark: #ffffff;
+
+    --md-default-bg-color: #0a0e1a;
+    --md-default-fg-color: #ffffff;
+    --md-default-fg-color--light: #ffffff;
+
+    --md-accent-fg-color: skyblue;
+    --md-typeset-a-color: skyblue;
+
+    color: white
+}
+
+.md-logo {
+  img {
+    height: 82px !important;    
+   }
+}
+
+/* Apply Orbitron to the header */
+.md-header {
+  font-family: 'Orbitron', sans-serif !important;
+}
+
+/* Ensure Jura is applied to body text */
+body {
+  font-family: 'Jura', sans-serif !important;
+}
